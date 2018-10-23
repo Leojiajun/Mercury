@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9520" started-at="2018-10-09T08:38:28Z" finished-at="2018-10-09T08:38:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9520" started-at="2018-10-09T08:38:28Z" finished-at="2018-10-09T08:38:37Z">
+      <class name="lesson1.TestCalculator">
+        <test-method status="PASS" signature="initalAppiumSetting()[pri:0, instance:lesson1.TestCalculator@610694f1]" name="initalAppiumSetting" is-config="true" duration-ms="2450" started-at="2018-10-09T16:38:28Z" finished-at="2018-10-09T16:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalAppiumSetting -->
+        <test-method status="PASS" signature="plus()[pri:0, instance:lesson1.TestCalculator@610694f1]" name="plus" duration-ms="6432" started-at="2018-10-09T16:38:30Z" finished-at="2018-10-09T16:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plus -->
+        <test-method status="PASS" signature="release()[pri:0, instance:lesson1.TestCalculator@610694f1]" name="release" is-config="true" duration-ms="630" started-at="2018-10-09T16:38:37Z" finished-at="2018-10-09T16:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- release -->
+      </class> <!-- lesson1.TestCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
